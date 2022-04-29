@@ -10,6 +10,8 @@ Presenting: `SVM`
 
 Implementing: `BIRCH`
 
+Presentation found in M9-ML-Algos, other files pertain to sample code
+
 <br/>
 
 # Appendix:
