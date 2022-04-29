@@ -2,9 +2,9 @@
 
 Presenting: SVM
 
-Implmenting: BIRCH
+Implementing: BIRCH
 
-sample here
+SVM presentation saved as a pdf, and various sample files associated with it currently in the repo
 
 
 
