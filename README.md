@@ -10,7 +10,9 @@ Presenting: `SVM`
 
 Implementing: `BIRCH`
 
-Presentation found in M9-ML-Algos, other files pertain to sample code
+Presentation found in M9-ML-Algos, other files in this top level directory pertain to sample code, either running it or files necessary for it to run
+
+The part2 folder contains our implementation of the BIRCH algorithm in BIRCH_implementation and the data we used in animals.csv; to run these just make sure they're in the same folder
 
 <br/>
 
